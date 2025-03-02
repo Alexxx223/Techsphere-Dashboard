@@ -1,3 +1,3 @@
 # Techsphere-Dashboard
 A simple next js dashboard
-Just a passion project
+This is Just a passion project
